@@ -1,0 +1,6 @@
+<additional> 
+    <inductionLoop id="det_1i" lane="1i_0" pos="-150.0" file="first.out" friendlyPos="x"/>
+    <inductionLoop id="det_2i" lane="2i_0" pos="-150.0" file="first.out" friendlyPos="x"/>
+    <inductionLoop id="det_4i" lane="4i_0" pos="-25.0" file="first.out"/>
+    <!-- <inductionLoop id="det_4i_2" lane="4i_0" pos="-250.0" file="first.out"/> -->
+</additional>

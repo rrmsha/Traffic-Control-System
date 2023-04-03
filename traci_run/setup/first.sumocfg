@@ -1,0 +1,16 @@
+<configuration>
+    <input>
+        <net-file value="first.net.xml"/>
+        <route-files value="first.rou.xml"/>
+        <additional-files value="first.add.xml"/>
+        <gui-settings-file value="sotl.settings.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+    </time>
+
+    <report>
+        <verbose value="true"/>
+    </report>
+</configuration>
